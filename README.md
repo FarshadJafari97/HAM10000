@@ -12,5 +12,5 @@ The Ham10000 dataset is a collection of 10,000 dermatoscopic images of skin lesi
 4. Interpretation and Visualization: Gain insights into the model's decision-making process.
 
 ## How to Use
-1. You can See ipynb file here and edit2. it in:
+1. You can See ipynb file here and edit it in:
     https://www.kaggle.com/code/farshadjafari97/skincancer-detection-multiple-models-83-accuracy
